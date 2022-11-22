@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @skylicia
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming, designing
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on anything.
+- 📫 How to reach me: discord
 
 <!---
 skylicia/skylicia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
